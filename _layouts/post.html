@@ -9,7 +9,7 @@ layout: default
       <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{page.date | date: "%B %-d, %Y" }}</time>
       <h1 class="post-title">{{page.title}}</h1>
       <div class="post-meta">
-        {% if post.author contains "Saltimus Prime"}
+        {% if post.author contains "Saltimus Prime" %}
         By <span class="post-author">{{ site.data.author2.name }}</span>
         {% else %}
         By <span class="post-author">{{ site.data.author.name }}</span>

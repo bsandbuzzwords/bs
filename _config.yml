@@ -31,11 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about
   #- text: Tags
   #  url: /tags/
   - text: Subscribe
-    url: /subscribe/
+    url: /subscribe
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
