@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Subscribe
+title: subscribe
 description: Subscribe to BS & Buzzwords
 ---
 <h1>Signup for BS & Buzzwords Weekly Newsletter</h1>

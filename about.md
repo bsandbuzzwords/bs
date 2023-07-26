@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 description: About BS & Buzzwords
 feature_image: images/about.jpg
 ---
