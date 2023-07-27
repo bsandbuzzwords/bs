@@ -1,11 +1,11 @@
 ---
 layout: post
-author: "Saltimus Prime"
+author: "Saltmaster Flex"
 title: "Events suck"
 description: "Events suck"
-date: 2023-07-26
+date: 2023-07-27
 feature_image: images/desk.jpg
-tags: [salt op-ed, events]
+tags: [bs-artist]
 ---
 
 For some unknown reasons events and tradeshows are back with a vengeance after a nice break during covid. One of the only benefits of covid was having events go virtual so you didn’t need to get dragged to some generic event, make awkward smalltalk with your colleagues while you collected branded swag from companies getting screwed to exhibit at the events. The ironic thing is that the swag fits perfectly into the same trash can that one of your new “leads” is also yakking in from being hammered.
