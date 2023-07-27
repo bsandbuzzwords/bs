@@ -1,26 +1,18 @@
 ---
 layout: post
 author: "Saltmaster Flex"
-title: "Events suck"
-description: "Events suck"
+title: "Ginger Gaetz hates barbie"
+description: "Ginger Gaetz hates barbie"
 date: 2023-07-27
 feature_image: images/desk.jpg
 tags: [bs-artist]
 ---
 
-For some unknown reasons events and tradeshows are back with a vengeance after a nice break during covid. One of the only benefits of covid was having events go virtual so you didn’t need to get dragged to some generic event, make awkward smalltalk with your colleagues while you collected branded swag from companies getting screwed to exhibit at the events. The ironic thing is that the swag fits perfectly into the same trash can that one of your new “leads” is also yakking in from being hammered.
-
-Events now lure you in with “expert” speakers to help “level-up” your skill set. What the event organizers don’t tell you is that these “expert” speakers are actually sponsors who paid thousands of dollars to be featured. We see this act as no different than paying to get your kids into a top-notch college.
+Being married to Matt Gaetz should be enough to earn Ginger Gaetz the Bullshit artist of the week every week by proximity alone, but she earns it herself this week with her laughable Instagram post complaining that the Barbie movie (a movie about a CHILD'S DOLL) did not address “any notion of faith or family”. This is a summer movie about a doll for christ sake and is meant to be funny, and make fun of itself. It is not meant to be taken seriously, much like your husband Matt Gaetz who is one step away from being thrown in jail for sexual trafficking of minors.
 <!--more-->
 
-We were recently at an ecommerce event where one of the panelists was a marketing director of a brand founded by an “influencer” with millions of followers. The moderator of the panel asked him “how he was able to grow the brand.” Let’s see, it doesn’t take a rocket scientist to figure this one out….the brand is founded by an influencer with millions of followers.
+The hypocrisy of these people knows no bounds. These people like Matt and Ginger Gaetz who “rail against the elites” end up getting invited (and attend) a movie premiere? How is that not elitism in and of itself?
 
-As the marketing director was spewing bullshit and buzzwords all over the crowd, we looked around and saw attendees actually taking notes on what this clown was saying. Are we missing something? While this is not a verbatim conversation between the marketing director and the influencer, we suspect this is what a slack exchange looks like for him and his founder when he needed “growth:”
+Elitism is the belief or notion that individuals who form an elite—a select group of people perceived as having an intrinsic quality, high intellect, wealth, power, notability, special skills, or experience—are more likely to be constructive to society as a whole, and therefore deserve influence or authority greater than that of others.
 
-Marketing Director: “Hey! Our sales are down a bit, can you make a post and tag our brand.”
-Influencer: “Sure! Let me go look sexy on a beach and hold up the product and tag us!!”
-Marketing Director: “Perfect! Ty!”
-*Waits 4 hours after the post is made
-Marketing Director: “Hey! That post generated $67K in new revenue!”
-
-This is TOTALLY repeatable for any brand! Yup, fly from all over the world to hear insightful conversations like this.
+Maybe Margot Robbie’s next role will be as Ginger Gaetz in the movie “Predator,” starring Steve Buscemi as Matt Gaetz. Then Ginger can complain that, like Barbie, that movie also neglects any notion of family or faith.
