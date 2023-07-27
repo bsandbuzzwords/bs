@@ -9,7 +9,8 @@ layout: default
       <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{page.date | date: "%B %-d, %Y" }}</time>
       <h1 class="post-title">{{page.title}}</h1>
       <div class="post-meta">
-        {% if post.author contains "Saltimus Prime" %}
+
+        {% if page.author contains "Saltimus Prime" %}
         By <span class="post-author">{{ site.data.author2.name }}</span>
         {% else %}
         By <span class="post-author">{{ site.data.author.name }}</span>
@@ -35,7 +36,8 @@ layout: default
       <a target="_blank"
         href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
     </div><!-- .share-post -->
-    {% if post.author contains "Saltmaster Flex" %}
+
+    {% if page.author contains "Saltmaster Flex" %}
 
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
@@ -58,7 +60,7 @@ layout: default
       <div class="author-avatar" style="background-image: url('{{ site.data.author2.image }}')"><span class="screen-reader-text">{{ site.data.author.name }}'s Picture</span></div>
       {% endif %}
       <div class="author-details">
-        <h2 class="author-title">About {{ site.data.author2.name }}</h2>
+        <h2 class="author-title">About {{ site.data.author.name }}</h2>
         <div class="author-bio">{{ site.data.author2.bio | markdownify }}</div>
         {% if site.data.author2.location and site.data.author2.location != "" %}
         <span class="author-location">{{ site.data.author2.location}}</span>
