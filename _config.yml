@@ -38,7 +38,7 @@ navigation:
     url: /subscribe
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus:
 
 # Colors
 accent_color: '#2d72d9'

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Saltimus Prime"
-title: "Events suck"
+title: "A way to stop the spread of bs and buzzwords: make events and tradeshows illegal"
 description: "Events suck"
 date: 2023-07-26
 feature_image: images/desk.jpg
