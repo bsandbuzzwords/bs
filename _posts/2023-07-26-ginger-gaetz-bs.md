@@ -7,7 +7,7 @@ date: 2023-07-27
 feature_image: images/desk.jpg
 tags: [bs-artist]
 ---
-
+Ginger gaets is a bs artist
 For some unknown reasons events and tradeshows are back with a vengeance after a nice break during covid. One of the only benefits of covid was having events go virtual so you didn’t need to get dragged to some generic event, make awkward smalltalk with your colleagues while you collected branded swag from companies getting screwed to exhibit at the events. The ironic thing is that the swag fits perfectly into the same trash can that one of your new “leads” is also yakking in from being hammered.
 
 Events now lure you in with “expert” speakers to help “level-up” your skill set. What the event organizers don’t tell you is that these “expert” speakers are actually sponsors who paid thousands of dollars to be featured. We see this act as no different than paying to get your kids into a top-notch college.
