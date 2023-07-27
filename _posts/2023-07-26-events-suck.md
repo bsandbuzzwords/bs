@@ -17,10 +17,10 @@ We were recently at an ecommerce event where one of the panelists was a marketin
 
 As the marketing director was spewing bullshit and buzzwords all over the crowd, we looked around and saw attendees actually taking notes on what this clown was saying. Are we missing something? While this is not a verbatim conversation between the marketing director and the influencer, we suspect this is what a slack exchange looks like for him and his founder when he needed “growth:”
 
-Marketing Director: “Hey! Our sales are down a bit, can you make a post and tag our brand.”
-Influencer: “Sure! Let me go look sexy on a beach and hold up the product and tag us!!”
-Marketing Director: “Perfect! Ty!”
-*Waits 4 hours after the post is made
-Marketing Director: “Hey! That post generated $67K in new revenue!”
+**Marketing Director**: “Hey! Our sales are down a bit, can you make a post and tag our brand.”<br>
+**Influencer**: “Sure! Let me go look sexy on a beach and hold up the product and tag us!!”<br>
+**Marketing Director**: “Perfect! Ty!”<br>
+*Waits 4 hours after the post is made<br>
+**Marketing Director**: “Hey! That post generated $67K in new revenue!”<br>
 
 This is TOTALLY repeatable for any brand! Yup, fly from all over the world to hear insightful conversations like this.
